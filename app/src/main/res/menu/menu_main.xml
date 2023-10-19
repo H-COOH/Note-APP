@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.note.MainActivity">
+    <item
+        android:id="@+id/security"
+        android:orderInCategory="100"
+        android:title="身份验证"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/paste_it"
+        android:orderInCategory="100"
+        android:title="粘贴笔记"
+        android:visible="false"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/new_file"
+        android:orderInCategory="100"
+        android:title="新建笔记"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/new_fold"
+        android:orderInCategory="100"
+        android:title="新建文件夹"
+        app:showAsAction="never" />
+</menu>

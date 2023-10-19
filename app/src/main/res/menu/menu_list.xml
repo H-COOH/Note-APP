@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/delete_0"
+        android:orderInCategory="100"
+        android:title="删除"
+        android:visible="false" />
+    <item
+        android:id="@+id/rename_0"
+        android:orderInCategory="100"
+        android:title="重命名"
+        android:visible="false" />
+
+    <!-- -->
+
+    <item
+        android:id="@+id/view_1"
+        android:orderInCategory="100"
+        android:title="查看"
+        android:visible="false" />
+    <item
+        android:id="@+id/edit_1"
+        android:orderInCategory="100"
+        android:title="编辑"
+        android:visible="false" />
+    <item
+        android:id="@+id/rename_1"
+        android:orderInCategory="100"
+        android:title="重命名"
+        android:visible="false" />
+    <item
+        android:id="@+id/cut_1"
+        android:orderInCategory="100"
+        android:title="剪切"
+        android:visible="false" />
+    <item
+        android:id="@+id/archive_1"
+        android:orderInCategory="100"
+        android:title="归档"
+        android:visible="false" />
+    <item
+        android:id="@+id/delete_1"
+        android:orderInCategory="100"
+        android:title="删除"
+        android:visible="false" />
+</menu>
